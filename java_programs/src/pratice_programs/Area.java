@@ -30,7 +30,7 @@ public class Area {
         double b1=sc.nextDouble();
         System.out.println("enter base of triangle");
         double h1=sc.nextDouble();
-        System.out.println("enter hypotenuse of triangle");
+        System.out.println("enter hypotenuse  value of triangle");
         double hy=sc.nextDouble();
         System.out.println("perimeter of circle :"+(b1+h1+hy));
         break;
